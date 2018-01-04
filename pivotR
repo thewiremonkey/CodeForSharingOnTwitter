@@ -1,0 +1,4 @@
+library(tidyverse)
+pivotR<-function(df, cols){
+  
+}
